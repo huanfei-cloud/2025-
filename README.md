@@ -25,9 +25,9 @@
 ### github基本操作
 **任务简介**
 
- GitHub是一个开源的分布式版本控制系统，用于敏捷高效地处理任何或小或大的项目,可以帮助你进行自动的版本管理。控制组之后的线上测试都是通过github发布，在多人协作的情况下，使用github就会相当的方便，能够有效地协调多位开发者对不同地方的改动。
+- GitHub是一个开源的分布式版本控制系统，用于敏捷高效地处理任何或小或大的项目,可以帮助你进行自动的版本管理。控制组之后的线上测试都是通过github发布，在多人协作的情况下，使用github就会相当的方便，能够有效地协调多位开发者对不同地方的改动。
 
-Transistor电控组使用github来协作编写代码，上传工作日志。
+- Transistor电控组使用github来协作编写代码，上传工作日志。
 
 **任务要求**
 
@@ -35,10 +35,11 @@ Transistor电控组使用github来协作编写代码，上传工作日志。
 
 **参考教程**
  
-【Git入门教程】https://gitee.com/link?target=https%3A%2F%2Fwww.cnblogs.com%2Fimyalost%2Fp%2F8762522.html
-
-【菜鸟教程yyds】https://gitee.com/link?target=https%3A%2F%2Fwww.runoob.com%2Fgit%2Fgit-tutorial.html
+- [git入门教程](https://www.cnblogs.com/imyalost/p/8762522.html)
+- [菜鸟教程yyds](https://www.runoob.com/git/git-tutorial.html)
+- 一个可以打开md文件的软件：[Typora](https://www.typora.io/windows/dev_release.html)
+- [Github 新手够用指南](https://www.bilibili.com/video/BV1e541137Tc)【**重点学习，实用性强**】
  
-**重点学习，实用性强**【Github 新手够用指南 | 全程演示&个人找项目技巧放送】https://www.bilibili.com/video/BV1e541137Tc
+
 
  
