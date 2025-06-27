@@ -96,6 +96,42 @@ $$
 
 - 最终提交为电子版（**图片**或**扫描件**）
 
+### 硬件设计基础
+
+- 参照下列步骤，使用Altium Designer完成原理图库与PCB库的创建。
+
+1. 使用立创商城导入：
+   1. 注册立创商城账号；[立创商城_一站式电子元器件采购自营商城_嘉立创电子商城 (szlcsc.com)](https://www.szlcsc.com/)
+   2. 搜索要添加的元件型号；
+
+ ![1720884209792](README.assets/1720884209792.jpg)
+
+2. 点击数据手册；
+
+ ![1720884241056](README.assets/1720884241056.jpg)
+
+3. 点击立即打开；
+
+ ![1720884266987](README.assets/1720884266987.jpg)
+
+4. 将原理图文件和PCB文件导出为Altium Designer格式；
+
+ ![1720884284232](README.assets/1720884284232.jpg)
+
+5. 将schdoc文件与pcbdoc文件在Altium Designer中打开；
+6. 在Altium Designer中新建原理图库和PCB元件库；
+
+ ![1720884325141](README.assets/1720884325141.jpg)
+
+7. 将从立创中下载的schdoc文件和pcbdoc文件复制到新建的原理图库和PCB元件库中；
+
+![1720884368360](README.assets/1720884368360.jpg)
+
+![1720884343706](README.assets/1720884343706.jpg)
+
+8. 自行绘制导入：查阅相关资料，在Altium Designer中绘制元件的原理图与PCB，导入现有库中，参考https://github.com/KitSprout/AltiumDesigner_PcbLibrary（一个封装得超级好的库，涵盖了市面上大多数元件），仿照其命名与绘制风格，将STM32H743VGT6芯片的原理图与PCB导入到SCH_Microcontroller.SchLib和PCB_IntegratedCircuit.PcbLib中，同时建立原理图与封装的映射关系。
+
+
 
 
  
