@@ -63,7 +63,19 @@
 - [菜鸟教程yyds](https://www.runoob.com/git/git-tutorial.html)
 - 一个可以打开md文件的软件：[Typora](https://www.typora.io/windows/dev_release.html)
 - [Github 新手够用指南](https://www.bilibili.com/video/BV1e541137Tc)【**重点学习，实用性强**】
- 
+
+### C/C++语言基础
+
+- 定义一个结构体 Student，包含以下成员：
+  - 学号（int id）
+  - 姓名（char name[20]）
+  - 三门课成绩（float score[3]）
+- 编写程序实现功能：
+  - 输入5个学生的信息；
+  - 计算每个学生的平均分，并输出所有学生的信息（包含平均分）；
+  - 找出平均分最高的学生，并输出其姓名和学号
+- 提交内容：**代码文件**和**程序运行结果截图**（命名备注清楚）
+- 此题**禁用AI**,要体现自己的编程风格，**程序里命名遵循培训内容**，添加注释。
 
 
  
