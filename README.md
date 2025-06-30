@@ -49,7 +49,7 @@
   1. 创建一个markdown文件，命名格式为{**{学号}{你的名字}{组别}LearnMarkdown.md**}，如‘233xxxx6小飞电控控制LearnMarkDown.md’,写出简单的markdown语法使用（deepseek自学即可）。
   2. 创建一个markdown文件，命名格式为{**{学号}{你的名字}{组别}.md**}，如‘233xxxx6小飞电控控制.md’，撰写你对本周题目的难度的看法/自己认为的难点。
   3. 创建一个markdown文件，命名格式为{**{学号}{你的名字}{组别}LearnGit.md**}，如‘233xxxx6小飞电控控制LearnGit.md’，简述自己对**git组成以及常见命令使用原理的理解**。
-- 三个文件统一放在‘Electrical-Control\第一周测试题提交’里。
+- 三个文件统一放在‘2025-BeiHang-Robomaster-Electrical-Control-New-Recruit-main\第一周测试题提交’里。
 - `git commit -m {改动的内容}` 在这里写清这次提交改动的内容:**{你的名字}提交git操作**。
 - 本任务结果提交方式为<font color='red'>**git（github）提交**</font> （**因为要先成为协作者才能够提交，所以具体任务的提交要放在3号以后**）  
 
@@ -120,7 +120,7 @@ $$
 
    #### 总线是一组能为多个部件分时共享的公共信息传送线路。——《计算机组成原理》
    - 在嵌入式开发中常用的总线协议包括 UART、I2C、SPI等，请自行查询相关资料，总结三种通信协议的特点与差异，字数不多于300字。
-   - 以**git提交**提交‘Electrical-Control\第一周测试题提交’里。
+   - 以**git提交**提交‘2025-BeiHang-Robomaster-Electrical-Control-New-Recruit-main\第一周测试题提交’里。
    - 命名为“{学号}{姓名}通信.md”。
 
 **任务二**
